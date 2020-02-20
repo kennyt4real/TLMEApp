@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using TLMEApp.Models;
+using TLMEApp.Web.Models;
 
-namespace TLMEApp.Controllers
+namespace TLMEApp.Web.Controllers
 {
     public class HomeController : Controller
     {

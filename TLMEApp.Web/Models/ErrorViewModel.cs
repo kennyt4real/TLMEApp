@@ -1,6 +1,6 @@
 using System;
 
-namespace TLMEApp.Models
+namespace TLMEApp.Web.Models
 {
     public class ErrorViewModel
     {
